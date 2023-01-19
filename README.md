@@ -1,16 +1,21 @@
-# flutter_1
+# Login UI 📱 📱
+Sucessfully Created First application in flutter
+## Tools used for building this app includes:
+- Flutter
+- Dart
+- Visual Studio Code
 
-A new Flutter project.
+## Documentation 📱
+- [Flutter](https://flutter.dev/?gclid=Cj0KCQiA8aOeBhCWARIsANRFrQHiLHzuwwnR_JsLSElFvK4MJWV4pjHN5NvufNR2EDZqVwWE9yrxsSUaAunoEALw_wcB&gclsrc=aw.ds)
+- [Dart](https://dart.dev/)
 
-## Getting Started
+## Screenshots 📱
 
-This project is a starting point for a Flutter application.
+![Screenshot 2023-01-19 215138](https://user-images.githubusercontent.com/108191093/213523065-e10dc616-7981-4e04-a614-e8d4e21bec26.png)
+![Screenshot 2023-01-19 215502](https://user-images.githubusercontent.com/108191093/213523096-3ed07575-293d-4cfc-85c9-376579f80607.png)
 
-A few resources to get you started if this is your first Flutter project:
+![Capture](https://user-images.githubusercontent.com/108191093/213523545-27fde558-db35-4bd3-bd96-dbef9427ec1a.PNG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Output 📱
+- 
+[Recording_1674150575961.webm](https://user-images.githubusercontent.com/108191093/213524990-30510577-ad61-484e-85eb-3e2874a65796.webm)
